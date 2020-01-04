@@ -39,4 +39,4 @@ gem 'puma'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'mechanize'
+gem 'mechanize', :group => :production
